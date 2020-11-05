@@ -1,4 +1,7 @@
-My Drive
+CISSP Training Sites and recommended links
+
+ISC2.org
+
 Federal Virtual Training
 https://fedvte.usalearning.gov/main.php
 
