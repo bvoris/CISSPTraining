@@ -1,1 +1,61 @@
+My Drive
+Federal Virtual Training
+https://fedvte.usalearning.gov/main.php
 
+Larry Greenblatt's 8 Domains of CISSP Day 1-5
+https://www.youtube.com/watch?v=ept-Mn-a3xE
+https://www.youtube.com/watch?v=BKjqfi47GKo
+https://www.youtube.com/watch?v=1qaTuZx8yfU
+https://www.youtube.com/watch?v=5HXZ_o-cAHs
+https://www.youtube.com/watch?v=JTrP1hoLXI0
+
+CISSP Flash Cards
+https://learning.isc2.org/content/official-isc%C2%B2-cissp%C2%AE-flash-cards
+
+Local training in Houston
+ETEC Instructor Tom Nguyen
+
+CISSP Practice questions
+https://www.skillset.com/certifications/cissp
+
+Security Professional's blogs:
+http://www.ericconrad.com/
+http://krebsonsecurity.com/
+http://www.benmalisow.com/
+
+ISC2 Credentials
+https://www.isc2.org/credentials/default.aspx
+
+Models
+https://en.wikipedia.org/wiki/Clark%E2%80%93Wilson_model
+https://en.wikipedia.org/wiki/Biba_Model
+https://en.wikipedia.org/wiki/Bell%E2%80%93LaPadula_model
+https://en.wikipedia.org/wiki/Graham-Denning_model
+https://en.wikipedia.org/wiki/Brewer_and_Nash_model
+https://en.wikipedia.org/wiki/Chinese_wall#Computer_science
+
+Fun with Security
+http://map.ipviking.com/
+http://overthewire.org/wargames/
+http://www.internethealthreport.com/
+http://www.instructables.com/id/Introduction-to-Hobbyist-Lock-Picking/?ALLSTEPS
+
+Standards and frameworks
+http://www.iso.org/iso/home/standards/management-standards/iso27001.htm
+http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=54533
+https://en.wikipedia.org/wiki/ISO/IEC_27002
+https://en.wikipedia.org/wiki/ISO/IEC_27001:2013
+http://www.iso27001security.com/html/27001.html
+http://www.27000.org/index.htm
+
+http://csrc.nist.gov/publications/nistpubs/800-37-rev1/sp800-37-rev1-final.pdf
+https://www.veracode.com/sites/default/files/Resources/Whitepapers/understanding-nist-800-37-fisma-requirements-whitepaper.pdf
+http://csrc.nist.gov/publications/nistpubs/800-12/handbook.pdf
+https://en.wikipedia.org/wiki/Risk_management_framework
+http://ithandbook.ffiec.gov/it-booklets/business-continuity-planning.aspx
+
+Tools
+https://hackertarget.com/nessus-openvas-nexpose-vs-metasploitable/
+http://www.metasploit.com/
+http://www.rapid7.com/
+https://www2.guidancesoftware.com/
