@@ -10,6 +10,11 @@ Public repository of my CISSP Training Material
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/CISSPTraining">
 <BR /><BR />
 
+## Content
+Additional CISSP Website Training<BR />
+https://github.com/bvoris/CISSPTraining/blob/main/Websites.txt
+<BR /><BR />
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
