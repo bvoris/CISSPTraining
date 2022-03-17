@@ -1,6 +1,12 @@
 CISSP Training Sites and recommended links
 
 ISC2.org
+Youtube
+freeCodeCamp.org CISSP Certification Course 13hrs 
+https://www.youtube.com/watch?v=M1_v5HBVHWo
+
+Simplilearn CISSP Masterclass in 3 hours
+https://www.youtube.com/watch?v=i6vKjSa20iw
 
 Federal Virtual Training
 https://fedvte.usalearning.gov/main.php
